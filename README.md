@@ -6,5 +6,6 @@
 ## Frontend
 - React
 ## Backend
-- Postgresql with Prisma ORM
+- NodeJS
+- Database: Postgresql with Prisma ORM
 ## Responsive for most mobile and tablet devices
